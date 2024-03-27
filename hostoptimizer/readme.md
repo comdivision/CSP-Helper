@@ -14,7 +14,7 @@ PowerCLi 11.5
 
 ### Installing
 
-git clone https://github.com/comdivision/TBD onto your local system. Edit the globalConfig.json to fit the environment
+git clone https://github.com/comdivision/CSP-Helper/  onto your local system. Edit the globalConfig.json to fit the environment
 
 {
  "vCenters":[
