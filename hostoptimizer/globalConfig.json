@@ -1,0 +1,14 @@
+{
+   "vCenters":[
+      "vc-mgmt-01.ger.cdip.net",
+      "vc-cloud-02.ger.cdip.net",
+      "vc-cloud-03.ger.cdip.net"
+   ],
+   "Clusters":[
+      "*"
+   ],
+   "MemoryFillrate":0.8,
+   "vMempMemRatio": 1.0,
+   "vCpuCoreRatio":"4",
+   "failoverHosts":"1"
+}
