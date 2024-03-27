@@ -1,4 +1,0 @@
-ClusterName;RequiredESXiHosts;ResourceDecision;allocatedMemory;allocatedCPU;vCpuCoreRatio;physicalAvailableCPUOnCluster;physicalCpuOnDRSGroup;vMempMemRatio;memoryFillRate;physicalAvailableMem;physicalMemOnDRSGroup;failoverHosts
-FES74-MGMT-01;5;Memory;1317;478;4;144;144;1;0.8;2047;2047;1
-FES74-CLOUD-02;3;Memory;329;172;4;384;72;1;0.8;6142;1152;1
-FES74-CLOUD-03;8;Memory;2721.25;656;4;224;224;1;0.8;2679;2679;1
