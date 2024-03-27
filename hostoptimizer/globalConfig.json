@@ -1,8 +1,7 @@
 {
    "vCenters":[
-      "vc-mgmt-01.ger.cdip.net",
-      "vc-cloud-02.ger.cdip.net",
-      "vc-cloud-03.ger.cdip.net"
+      "vc01.comdivision.com",
+      "vc02.comdivision.comt"
    ],
    "Clusters":[
       "*"
